@@ -22,7 +22,7 @@ The other dataset used in the study is the MaskedFaceNet dataset, which contains
 
 ## Preprocess
 By preprocessing, the data is made available for further use. The success of this phase allows the model to be successfully trained and the result to be more accurate. Data preprocessing involves resizing the image, converting the image to an array, and converting the labeled data into a numeric label. Resizing images is a critical preprocessing step for the effectiveness of training models and machine learning. The smaller the size of the image, the better the model works. In this project, the resizing process is to resize all of the images to 224 × 224 pixels.
-## Data Visualition
+## Data Visualization
 All the images in the Maskedface-Net dataset are divided into three categories as correctly masked, incorrectly masked and unmasked, and the images in the Kaggle dataset are divided into two categories as masked and unmasked.
 
 
